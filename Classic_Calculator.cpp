@@ -1,4 +1,4 @@
-                                /* <----------Classic_Calculator Use of Function----------> */
+                                /* <----------Classic_Calculator Use Of Function----------> */
 
 #include<iostream>
 #include <iomanip>
