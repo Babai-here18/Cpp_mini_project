@@ -660,7 +660,7 @@ int main() {
             goto repeate;  // Jump to the 'repeate' label to restart the menu
     }
 
-    return 0;  // End of the program
+    return 0; // Exit the program
 }
 
 /*------------------------------------------------------------------['End of The Program'] -----------------------------------------------------------------------*/
